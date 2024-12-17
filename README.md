@@ -1,7 +1,8 @@
 """under Process started 15 Dec 2024"""
-# Liferando App Simulation
+# Food Delivery App
 
-This project simulates the functionality of the LifeReno app, aiming to provide a professional approach to creating a similar service application.
+This is a project where I am building an app that simulates the functionality of **Food Delivery App**. The goal is to create a professional and user-friendly platform for ordering food from local restaurants.
+
 
 ## Overview
 
