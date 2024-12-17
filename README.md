@@ -1,4 +1,5 @@
-# LifeReno App Simulation
+"""under Process started 15 Dec"""
+# Liferando App Simulation
 
 This project simulates the functionality of the LifeReno app, aiming to provide a professional approach to creating a similar service application.
 
