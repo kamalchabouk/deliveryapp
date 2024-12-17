@@ -1,5 +1,5 @@
-"""under Process started 15 Dec 2024"""
-"""Stoped working on it for on 17 Dec 2024. Will Continue Soon for more advanced topics"""
+-"""under Process started 15 Dec 2024"""
+-"""Stoped working on it for on 17 Dec 2024. Will Continue Soon for more advanced Feutures"""
 # Food Delivery App
 
 This is a project where I am building an app that simulates the functionality of **Food Delivery App**. The goal is to create a professional and user-friendly platform for ordering food from local restaurants.
