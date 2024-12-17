@@ -21,7 +21,7 @@ The **LifeReno App** simulation is designed to replicate the core features and f
 ## Technologies Used
 
 - **Backend:** Django Framework (Python)
-Not Started yet - **Frontend:** HTML, CSS, JavaScript (with potential use of frameworks like React and Flutter!!!)
+- #Not Started yet **Frontend:** HTML, CSS, JavaScript (with potential use of frameworks like React and Flutter!!!)
 - **Database:** PostgreSQL
 - **Version Control:** Git & GitHub
 
